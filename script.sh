@@ -4,3 +4,7 @@ echo " HELLO PRANJAL"
 
 
 echo "hiii"
+
+
+mkdir suyog
+
