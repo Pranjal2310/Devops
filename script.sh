@@ -6,5 +6,7 @@ echo " HELLO PRANJAL"
 echo "hiii"
 
 
-mkdir suyog
+mkdir suyog 
+
+touch suyog.txt
 
